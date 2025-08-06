@@ -1,0 +1,118 @@
+SPDX-License-Identifier: LicenseRef-symbol-dump
+
+Note: This license was created specifically for symbol-dump by circasee.  
+It is not a general-purpose or open-source license.  
+Do not reuse or adapt this license without permission or legal review.
+
+Custom License for symbol-dump — Version 1.0.0
+
+© 2025 circasee (https://github.com/circasee). All rights reserved.
+This work is licensed under a custom license.
+Redistribution and use are permitted only under the terms described below.
+
+Last updated: 2025-08-05  
+License version: 1.0.0  
+License subject to future revocation or reissuance.  
+Future versions of this license may supersede this one.  
+Use of this work constitutes acceptance of the terms below.
+
+---
+
+Permitted
+
+- Personal or educational use, including:
+  - Reading, experimentation, and adaptation for individual learning
+  - Referencing concepts in academic or non-commercial training (with attribution; see below)
+
+- Use in paid training or courses only with prior permission, attribution, and where possible, royalties or licensing fees
+
+- Rehosting for archival purposes with visible attribution and without commercial intent
+
+“Visible attribution” means prominently displayed credit, legible to end users, and not buried in metadata, footnotes, or non-rendered content.
+
+Use in free or public training offered by commercial or sponsored entities still requires prior permission.
+
+This includes conference talks, webinars, or workshops labeled “free” but used to promote a service, product, or brand — even indirectly.
+
+Broadly available, community-first events (e.g. DEFCON, WWWHackin’ Fest with its Pay-What-You-Want structure) are generally fine. High-barrier events (e.g. gated enterprise trainings, Black Hat Arsenals, invite-only webinars) may require case-by-case review.
+
+---
+
+Not Permitted Without Explicit License
+
+- Integration into commercial training, internal knowledge bases, or monetized platforms
+- Repurposing or paraphrasing techniques as original work
+- Claiming novelty based on minor reordering or phrasing changes
+- Closed redistribution without visible credit
+- Use in any AI model training or LLM corpus without prior approval, including prompt tuning, fine-tuning, embedding, vectorization, or ingestion into retrieval systems, regardless of whether model outputs directly reproduce the source
+- Rehosting behind paywalls, inside private wikis, or on access-controlled systems unless clearly for individual, non-commercial use
+- Bundling or packaging content into tools, libraries, automations, or plugins for distribution or resale
+- Use in academic materials (e.g. lectures, papers, slide decks) without visible attribution
+- Symbolic attribution (e.g. buried links or minimal references) while ignoring core license terms
+
+Derivative works based on this material must comply with these terms unless otherwise agreed in writing.
+
+Any violation of these terms immediately revokes all granted rights, retroactive to the point of first non-compliant use.
+
+---
+
+Attribution
+
+If you build on the work, credit it.
+
+Minor edits to structure, phrasing, or code do not constitute originality.
+
+If you found this material helpful and publish something as a result — even tangentially — cite it or link to the repo.
+
+A link alone does not imply compliance. Compliance means following the terms.
+
+---
+
+Attribution TLDR (which is, ironically, longer than the attribution section)
+
+If this project shaped your thinking, saved you time, or influenced what you built — credit the work.
+
+You don’t need a whole attribution talk (I gave one — and I even mispronounced half the names).  
+It’s not about being flawless. It’s about being sincere.
+
+Don’t drop a link and call it good. Don’t skip a slide because you ran long.
+
+Say what the work gave you. Show others where it came from. Be specific. Be real.
+
+Good attribution means:
+- Mentioning the project by name
+- Linking to the repo where people can find it
+- Calling out what you took or learned — structure, idea, phrasing, technique, etc.
+- Doing it where people will actually see it (README, slide, blog, paper, etc.)
+
+Not sure what’s enough?  
+Open a GitHub issue labeled `request-for-contact` and ask.
+
+---
+
+Contact
+
+For licensing, reuse, or royalty agreements:  
+Please open a GitHub issue labeled request-for-contact.  
+Do not attempt indirect or scraped contact.
+
+---
+
+Final Notes
+
+This license is designed to:
+- Respect quiet contributors  
+- Deter technicality pirates  
+- Preserve author intent
+
+Do the right thing, even when it’s technically optional.
+
+This license shall be governed by the laws of the United States and enforced under the appropriate jurisdiction of the author.
+
+---
+
+Backdated Commits
+
+Some commits in this project may be backdated using `GIT_AUTHOR_DATE` to reflect the original creation time.  
+The `GIT_COMMITTER_DATE` represents the date of publication and governs when the license terms take effect.  
+Use of any content is subject to the license terms from the committer date forward, regardless of authoring date.
